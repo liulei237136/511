@@ -1,0 +1,23 @@
+{
+  "name": "511",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liulei237136/511.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liulei237136/511/issues"
+  },
+  "homepage": "https://github.com/liulei237136/511#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
