@@ -8,8 +8,8 @@ if (fs.existsSync('./log.txt')) {
 fs.writeFileSync('./log.txt', '');
 
 
-for (let j = 0; j < 5; j++) {
-    for (let i = 1; i <= 50; i++) {
+for (let j = 0; j < 1; j++) {
+    for (let i = 1; i <= 52; i++) {
         axios.head(`https://cdn.jsdelivr.net/gh/liulei237136/511/${i}.mp3`)
             .then(() => {
                 // console.log(`${i}.mp3 can access`);
